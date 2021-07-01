@@ -99,6 +99,11 @@ footer p {
     width: 300px;
 }
 
+.doggos {
+    height: 25px;
+    width: 25px;
+}
+
 img{
     box-shadow: 2px 2px 2px #e09e40;
     border-radius: 5%;
